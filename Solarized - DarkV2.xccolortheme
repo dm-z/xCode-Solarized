@@ -3,77 +3,81 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0.27672 0.35666 0.382985 1</string>
+	<string>0.505992 0.564858 0.563637 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0.27672 0.35666 0.382985 1</string>
+	<string>0.505992 0.564858 0.563637 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Menlo-Regular - 12.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.146795 0.570824 0.525023 1</string>
+	<string>0.164706 0.572549 0.52549 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0.324366 0.407177 0.438506 1</string>
+	<string>0.44058 0.509629 0.516858 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Menlo-Regular - 12.0</string>
+	<string>SFMono-Regular - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.324366 0.407177 0.438506 1</string>
+	<string>0.44058 0.509629 0.516858 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Menlo-Bold - 12.0</string>
+	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.989434 0.957944 0.86406 1</string>
+	<string>0.0159244 0.126521 0.159696 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.989434 0.957944 0.86406 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.916111 0.890012 0.797811 1</string>
+	<string>0.262745 0.337255 0.356863 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.347924 0.351372 0.717917 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
-	<string>0.949857 0.919626 0.829498 1</string>
+	<string>0.0946504 0.196399 0.22692 1</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.873868 0.846056 0.763138 1</string>
+	<string>0.167078 0.260687 0.288767 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>Menlo-Regular - 13.0</string>
+	<string>SFMono-Regular - 13.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
-	<string>0.278431 0.356863 0.384314 1</string>
+	<string>0.509804 0.568627 0.568627 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.HelveticaNeueDeskInterface-Italic - 13.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.509804 0.568627 0.568627 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.784314 0.109804 0.439216 1</string>
 	<key>DVTMarkupTextLinkFont</key>
 	<string>.HelveticaNeueDeskInterface-Regular - 13.0</string>
 	<key>DVTMarkupTextNormalColor</key>
-	<string>0.278431 0.356863 0.384314 1</string>
+	<string>0.509804 0.568627 0.568627 1</string>
 	<key>DVTMarkupTextNormalFont</key>
 	<string>.HelveticaNeueDeskInterface-Regular - 13.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
-	<string>0.278431 0.356863 0.384314 0.5</string>
+	<string>0.509804 0.568627 0.568627 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.HelveticaNeueDeskInterface-Regular - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
-	<string>0.278431 0.356863 0.384314 1</string>
+	<string>0.509804 0.568627 0.568627 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
 	<string>.HelveticaNeueDeskInterface-Regular - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
-	<string>0.278431 0.356863 0.384314 1</string>
+	<string>0.509804 0.568627 0.568627 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
 	<string>.HelveticaNeueDeskInterface-Regular - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
-	<string>0.278431 0.356863 0.384314 1</string>
+	<string>0.509804 0.568627 0.568627 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.HelveticaNeueDeskInterface-Bold - 13.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.989434 0.957944 0.86406 1</string>
+	<string>0.0159244 0.126521 0.159696 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.0776296 0.179204 0.208988 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.125 0.189516 1 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.916959 0.891762 0.794153 1</string>
+	<string>0.262745 0.337255 0.356863 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -81,7 +85,7 @@
 		<key>xcode.syntax.character</key>
 		<string>0.823529 0.109804 0.145098 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.509804 0.568627 0.568627 1</string>
+		<string>0.278431 0.356863 0.384314 1</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>0.5 0 0.5 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
@@ -95,9 +99,9 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.34902 0.352941 0.72549 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.14902 0.462745 0.784314 1</string>
+		<string>0.0583207 0.463774 0.768364 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.14902 0.462745 0.784314 1</string>
+		<string>0.0583207 0.463774 0.768364 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.65098 0.466667 0.0235294 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -115,7 +119,7 @@
 		<key>xcode.syntax.number</key>
 		<string>0.823529 0.109804 0.145098 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.278431 0.356863 0.384314 1</string>
+		<string>0.509804 0.568627 0.568627 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.65098 0.466667 0.0235294 1</string>
 		<key>xcode.syntax.string</key>
@@ -126,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Menlo-Regular - 14.0</string>
+		<string>SFMono-Regular - 14.0</string>
 	</dict>
 </dict>
 </plist>
